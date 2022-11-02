@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.header{
+    background-color: #f7f7f7;
+    height: 13vh;
+    margin: 1%;
+    border-radius: 2%;
+}
+ .header .imgheader{
+     margin-left: 5%;
+
+ }
+.secNav{
+    background-color: green;
+    
+}
+.nav-item .nav-link{
+    color: white;
+    font-size: 25px;
+}
+.nav-link{
+     color: white;
+ }
+ .nav-item .nav-link:hover{
+    color: darkblue;
+}
+.secNav button{
+    color: white;
+    border: none;
+    background-color: rgb(189, 187, 187);
+
+
+}
+.secNav button:hover{
+    color: white;
+     
+    background-color: rgb(82, 4, 4);
+    border-radius: 10px;
+
+
+}
+ .Bannar{
+    margin-top: 3%;
+
+} 
+.Bannar .imgBannar{
+    display: flex;
+}
+ .TextHeader{
+    margin-top: 15%;
+    margin-left: 1%;
+     color: rgb(158, 24, 24);
+     
+} 
+.imgBannar{
+    margin-left: 1%;
+    
+
+}
+.body{
+    background-color: #f7f7f7;
+}
+.Bannarsec{
+    margin-left: 10%;
+}
+.imgsecBannar{
+    margin-left: 2%;
+}
+.TextBensec{
+    margin-top: -22%;
+    margin-left: 4%;
+    color: darkblue;
+}
+.checkBox{
+    color: white;
+    background-color:green;
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 4%;
+    margin-top: 2%;
+  
+
+}
+.checkBox:hover{
+    color: white;
+    background-color: crimson;
+    
+    
+
+}
+.TextBensec2{
+    margin-left: 50%;
+    margin-top: -14%;
+    font-size: 30px;
+    color: rgb(148, 7, 7);
+    font-weight: bold;
+
+}
+
+
+.Bannarsec .imgBansec{
+    margin-top: 4%;
+}
+
+.Shopnow{
+    margin-top: 10%;
+    text-align: center;
+    font-weight: 50px;
+    color: darkred;
+}
+.card label{
+    color: indigo;
+    font-weight: 600;
+    margin-left: 7%;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px;
+    
+
+    
+}
+
+
+.contact h1{
+    color:orangered;
+    text-align: center;
+    font-weight: 700;
+
+}
+.contact input{
+    margin: 2%;
+    padding: 10px;
+
+
+}
+
+.contact form{
+    margin-left: ;
+    border: gray solid 2px;
+}
+.contact button{
+    margin-left: 48%;
+    margin-top: 2%;
+    border: none;
+    background-color: orange;
+    padding: 15px;
+    border-radius: 5%;
+
+}
+.contact button:hover{
+    color: white;
+    background-color: darkred;
+   
+    
+}
+
+
+.Footerfirst{
+    background-color: red;
+    height: 10vh;
+    margin: 2%;
+   
+
+
+}
+
+
+.salaadfooter2{
+    background-color: darkblue;
+    margin: 3%;
+    margin-top: -4%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.salaadfooter2 h1{
+    color: white;
+
+}
+.salaadfooter2 h6 {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    
+}
+.salaadfooter2 h4 {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+}
+.salaadfooter2 h4 {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+.salaadgabow33 a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: normal;
+}
+.salaadgabow33 i{
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
